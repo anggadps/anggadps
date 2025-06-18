@@ -3,7 +3,7 @@
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=dotnet,js,ts,react,next,mysql,mongodb,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,js,ts,css,html,react,next,mysql,mongodb,kotlin&theme=light)](https://skillicons.dev)
 
 
 ## 🔗 Links
